@@ -1,1 +1,1 @@
-# bartending-app
+# Mixology Application
