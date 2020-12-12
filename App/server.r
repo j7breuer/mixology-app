@@ -72,8 +72,9 @@ create_my_cards <- function(df, placement){
 
 
 my_collection_ids <<- c()
+my_collection_ids_to_remove <<- c()
 
-test_func <- function(df, input, ids){
+add_to_collection_func <- function(df, input, ids){
     for (i in 1:length(unique(df$Ingredient))){
         eval(parse(text = paste0("ids[",i,"] <- input$add_to_collection_",i)))
     }
@@ -89,6 +90,8 @@ shinyServer(function(input, output, session){
 
     output$my_dynammic_drink_cards <- renderUI({
         vals_to_display <- add_to_my_collection_react()
+        vals_not_to_display <- remove_from_collection_react()
+        print(vals_not_to_display)
         if (!is.null(vals_to_display)){
             unique(vals_to_display)
         }
@@ -97,9 +100,22 @@ shinyServer(function(input, output, session){
     output$dynammic_drink_cards <- renderUI({create_cards(mdf)})
     
     add_to_my_collection_react <- reactive({
-        my_cards_to_ui <<- test_func(mdf, input, my_collection_ids)$cards
-        my_collection_ids <<- test_func(mdf, input, my_collection_ids)$my_ids
+        my_cards_to_ui <<- add_to_collection_func(mdf, input, my_collection_ids)$cards
+        my_collection_ids <<- add_to_collection_func(mdf, input, my_collection_ids)$new_ids
         return(my_cards_to_ui)
+    })
+
+    remove_from_collection_react <- reactive({
+        for (i in 1:length(unique(mdf$Ingredient))){
+            #eval(parse(text = paste0("my_collection_ids_to_remove[",i,"] <- input$remove_to_collection_",i)))
+            eval(parse(text = paste0("print(input$remove_to_collection_",i, ")")))
+        }
+        for (i in 1:length(my_collection_ids_to_remove)){
+            if (!is.null(my_collection_ids_to_remove[i])){
+                my_collection_ids[i] <- 0
+            }
+        }
+        return(my_collection_ids)        
     })
 
 })
