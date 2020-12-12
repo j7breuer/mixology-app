@@ -97,16 +97,6 @@ shinyServer(function(input, output, session){
     output$dynammic_drink_cards <- renderUI({create_cards(mdf)})
     
     add_to_my_collection_react <- reactive({
-        # for (i in 1:length(unique(mdf$Ingredient))){
-        #     eval(parse(text = paste0("my_collection_ids[",i,"] <<- input$add_to_collection_",i)))
-        # }
-        # for (i in 1:length(my_collection_ids)){
-        #     if (my_collection_ids[i] > 0){
-        #         my_cards_to_ui <<- create_my_cards(mdf, i)
-        #     }
-        # }
-        # return(my_cards_to_ui)
-
         my_cards_to_ui <<- test_func(mdf, input, my_collection_ids)$cards
         my_collection_ids <<- test_func(mdf, input, my_collection_ids)$my_ids
         return(my_cards_to_ui)
