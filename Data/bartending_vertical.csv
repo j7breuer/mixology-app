@@ -1,10 +1,10 @@
 Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 1,No,Champagne,Champagne Blitz,Champagne,Champagne,Mixer,4,Ounce,http://www.drinksmixer.com/cat/2406/
-2,No,Champagne,Champagne Blitz,Champagne,Crème de Menthe (White),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
+232,No,Cordial,Apple Strudel,Rumple Minze,Apple Cider,Mixer,0,Fill,https://www.barnonedrinks.com/drinks/a/apple-strudel-271.html
 3,Yes,Cognac,Bavarian Blizzard,Ansac,Ansac Cognac,Spirit,1,Ounce,https://www.barnonedrinks.com/drinks/b/bavarian-blizzard-474.html
 4,Yes,Cognac,Bavarian Blizzard,Ansac,Rumple Minze,Cordial,1,Ounce,https://www.barnonedrinks.com/drinks/b/bavarian-blizzard-474.html
 5,Yes,Cognac,Bavarian Blizzard,Ansac,Coffee,Mixer,0,Fill,https://www.barnonedrinks.com/drinks/b/bavarian-blizzard-474.html
-6,No,Cognac,Bermuda Highball,Ansac,Bianco Vermouth,Vermouth,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
+465,No,Tequila,Casa Repo Spritz,Casamigos,Martini Rosato,Vermouth,1.75,Ounce,https://www.casamigos.com/en-us/cocktails/casa-repo-spritz/
 7,No,Cognac,Bermuda Highball,Ansac,Ansac Cognac,Spirit,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 8,No,Cognac,Bermuda Highball,Ansac,Gin,Spirit,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 9,No,Cognac,Bermuda Highball,Ansac,Club Soda,Soda,3,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
@@ -17,17 +17,17 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 16,No,Cognac,Canton Shandy,Ansac,Ansac Cognac,Spirit,30,Milliliters,http://kuletos.com.au/cocktails/How-To-Make-A/Canton-Shandy
 17,No,Cognac,Canton Shandy,Ansac,Ginger Beer,Mixer,35,Milliliters,http://kuletos.com.au/cocktails/How-To-Make-A/Canton-Shandy
 18,No,Cognac,Canton Shandy,Ansac,Lemon Juice,Fruit,10,Milliliters,http://kuletos.com.au/cocktails/How-To-Make-A/Canton-Shandy
-19,No,Cognac,Canton Shandy,Ansac,Domain de Canton,Cordial,15,Milliliters,http://kuletos.com.au/cocktails/How-To-Make-A/Canton-Shandy
+257,No,Gin,Fall Cider Punch,Beefeater,Apple Cider,Mixer,1.5,Ounce,https://www.beefeatergin.com/en-US/cocktails/fall-cider-gin-punch
 20,No,Cognac,Chocolate Mint Alexander,Ansac,Ansac Cognac,Spirit,1.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
-21,No,Cognac,Chocolate Mint Alexander,Ansac,Crème de Cacao (Dark),Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
-22,No,Cognac,Chocolate Mint Alexander,Ansac,Crème de Cacao (White),Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
-23,No,Cognac,Chocolate Mint Alexander,Ansac,Crème de Menthe (Green),Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
+177,No,Cordial,End of My Ropes,Frangelico,Crème de Banana,Cordial,2,Teaspoon,http://www.drinksmixer.com/cat/2384/
+606,No,Vodka,Honeydew Cooler,Grey Goose,Crème de Banana,Cordial,15,Milliliters,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
+126,No,Cordial,Frozen Andes Mint,Crème de Menthe,Crème de Cacao,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
 24,No,Cognac,Chocolate Mint Alexander,Ansac,Half and half,Mixer,0.75,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
 25,No,Cognac,Chocolate Mint Alexander,Ansac,Egg Whites,Topping,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
 26,No,Cognac,Cognac Alexander,Ansac,Ansac Cognac,Spirit,1.5,Ounce,ansac-cognac.fr/cocktails/
 27,No,Cognac,Cognac Alexander,Ansac,Nutmeg,Spice,1,Dashes,ansac-cognac.fr/cocktails/
 28,No,Cognac,Cognac Alexander,Ansac,Heavy Cream,Mixer,0.66,Ounce,ansac-cognac.fr/cocktails/
-29,No,Cognac,Cognac Alexander,Ansac,Crème de Cacao Dark,Cordial,0.66,Ounce,ansac-cognac.fr/cocktails/
+634,No,Vodka,The Sequel,Grey Goose,Crème de Cacao,Cordial,0.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/the-sequel.html
 30,No,Cognac,East India,Ansac,Grenadine,Mixer,0.18,Ounce,ansac-cognac.fr/cocktails/
 31,No,Cognac,East India,Ansac,Pineapple Juice,Juice,0.66,Ounce,ansac-cognac.fr/cocktails/
 32,No,Cognac,East India,Ansac,Ansac Cognac,Cordial,1.5,Ounce,ansac-cognac.fr/cocktails/
@@ -41,18 +41,18 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 40,No,Cognac,Sazerac,Ansac,Absinthe,Cordial,0.25,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 41,No,Cognac,Sazerac,Ansac,Peychauds Bitters,Bitters,3,Dashes,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 42,No,Cognac,Springtime in Cognac,Ansac,Rose,Wine,0,Fill,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
-43,No,Cognac,Springtime in Cognac,Ansac,Honey Syrup*,Syrup,0.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
+43,No,Cognac,Springtime in Cognac,Ansac,Honey,Syrup,0.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 44,No,Cognac,Springtime in Cognac,Ansac,Ansac Cognac,Spirit,1.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 45,No,Cognac,Springtime in Cognac,Ansac,Lemon Juice,Fruit,0.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 46,No,Cognac,Springtime in Cognac,Ansac,Strawberries,Fruit,1,Strawberries,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 47,No,Cognac,Stinger,Ansac,Ansac Cognac,Spirit,1.33,Ounce,ansac-cognac.fr/cocktails/
 48,No,Cognac,Stinger,Ansac,Mint Leaves,Herb,1,Leaves,ansac-cognac.fr/cocktails/
-49,No,Cognac,Stinger,Ansac,Crème de Menthe,Cordial,0.66,Ounce,ansac-cognac.fr/cocktails/
+21,No,Cognac,Chocolate Mint Alexander,Ansac,Crème de Cacao (Dark),Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
 50,Yes,Cordial,Americano,Campari,Campari,Cordial,1,Ounce,https://www.campari.com/our-cocktails
-51,Yes,Cordial,Americano,Campari,Red Vermouth,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
+111,No,Cordial,The Ribbon,Campari,Vermouth di Torino,Vermouth,0.66,Ounce,https://www.diffordsguide.com/cocktails/recipe/4124/the-ribbon
 52,Yes,Cordial,Americano,Campari,Soda,Soda,1,Splash,https://www.campari.com/our-cocktails
 53,Yes,Cordial,Boulevardier,Campari,Campari,Cordial,1,Ounce,https://www.campari.com/our-cocktails
-54,Yes,Cordial,Boulevardier,Campari,Red Vermouth,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
+86,No,Cordial,Kingston Negroni,Campari,Sweet Vermouth,Vermouth,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g32500345/campari-cocktails/
 55,Yes,Cordial,Boulevardier,Campari,Whisky,Spirit,1.5,Ounce,https://www.campari.com/our-cocktails
 56,Yes,Cordial,Campari and Tonic,Campari,Campari,Cordial,1.5,Ounce,https://www.campari.com/our-cocktails
 57,Yes,Cordial,Campari and Tonic,Campari,Tonic Water,Mixer,4.5,Ounce,https://www.campari.com/our-cocktails
@@ -84,14 +84,14 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 83,No,Cordial,Killer Cocktail,Campari,Lemon Juice,Fruit,1,Ounce,https://www.diffordsguide.com/cocktails/recipe/4120/killer-cocktail
 84,No,Cordial,Kingston Negroni,Campari,Campari,Cordial,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g32500345/campari-cocktails/
 85,No,Cordial,Kingston Negroni,Campari,Jamaican Rum,Spirit,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g32500345/campari-cocktails/
-86,No,Cordial,Kingston Negroni,Campari,Sweet Vermouth,Vermouth,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g32500345/campari-cocktails/
+109,No,Cordial,Sorrentino,Campari,Sweet Vermouth,Vermouth,1,Ounce,https://www.diffordsguide.com/cocktails/recipe/4611/sorrentino-cocktail
 87,Yes,Cordial,Mi To,Campari,Campari,Cordial,1.5,Ounce,https://www.campari.com/our-cocktails
-88,Yes,Cordial,Mi To,Campari,Red Vermouth,Vermouth,1.5,Ounce,https://www.campari.com/our-cocktails
+407,No,Rum,Noble Diplomat,Diplomatico,Sweet Vermouth,Vermouth,20,Milliliters,https://rondiplomatico.com/cocktails/noble-diplomat/
 89,Yes,Cordial,Negroni Campari,Campari,Campari,Cordial,1,Ounce,https://www.campari.com/our-cocktails
 90,Yes,Cordial,Negroni Campari,Campari,Gin,Spirit,1,Ounce,https://www.campari.com/our-cocktails
-91,Yes,Cordial,Negroni Campari,Campari,Red Vermouth,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
+662,No,Vodka,Frangelico Martini,Vodka,Sweet Vermouth,Vermouth,0.5,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 92,No,Cordial,Negroni Sbagliato,Campari,Campari,Cordial,1,Ounce,https://www.campari.com/our-cocktails
-93,No,Cordial,Negroni Sbagliato,Campari,Red Vermouth,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
+729,No,Whisky,Massey Cocktail,Jameson,Sweet Vermouth,Vermouth,0.75,Ounce,https://www.thespruceeats.com/massey-cocktail-recipe-4156985
 94,No,Cordial,Negroni Sbagliato,Campari,Sparkling Wine,Wine,0,Fill,https://www.campari.com/our-cocktails
 95,No,Cordial,Old Acquaintance,Campari,Campari,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4315/old-acquaintance
 96,No,Cordial,Old Acquaintance,Campari,Rutte Dry Gin,Spirit,1.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4315/old-acquaintance
@@ -101,55 +101,55 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 100,No,Cordial,Old Friend,Campari,Campari,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4258/old-friend
 101,No,Cordial,Old Friend,Campari,Rutte Dry Gin,Spirit,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4258/old-friend
 102,No,Cordial,Old Friend,Campari,Grapefruit Juice,Fruit,0.75,Ounce,https://www.diffordsguide.com/cocktails/recipe/4258/old-friend
-103,No,Cordial,Old Friend,Campari,St. Germain Elderflower,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4258/old-friend
+160,No,Cordial,Brazilian Monk,Frangelico,Crème de Cacao (Dark),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 104,Yes,Cordial,Shaken Campari,Campari,Campari,Cordial,2,Ounce,https://www.campari.com/our-cocktails
 105,Yes,Cordial,Shaken Campari,Campari,Ice Cream,Mixer,0,Shake,https://www.campari.com/our-cocktails
 106,No,Cordial,Sorrentino,Campari,Campari,Cordial,0.75,Ounce,https://www.diffordsguide.com/cocktails/recipe/4611/sorrentino-cocktail
 107,No,Cordial,Sorrentino,Campari,Limoncello,Cordial,1,Ounce,https://www.diffordsguide.com/cocktails/recipe/4611/sorrentino-cocktail
 108,No,Cordial,Sorrentino,Campari,Soda Water,Mixer,2,Ounce,https://www.diffordsguide.com/cocktails/recipe/4611/sorrentino-cocktail
-109,No,Cordial,Sorrentino,Campari,Sweet Vermouth,Vermouth,1,Ounce,https://www.diffordsguide.com/cocktails/recipe/4611/sorrentino-cocktail
+51,Yes,Cordial,Americano,Campari,Martini Rosso,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
 110,No,Cordial,The Ribbon,Campari,Fino Sherry,Wine,0.66,Ounce,https://www.diffordsguide.com/cocktails/recipe/4124/the-ribbon
-111,No,Cordial,The Ribbon,Campari,Vermouth di Torino,Vermouth,0.66,Ounce,https://www.diffordsguide.com/cocktails/recipe/4124/the-ribbon
+54,Yes,Cordial,Boulevardier,Campari,Martini Rosso,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
 112,No,Cordial,The Ribbon,Campari,Blood Orange Liqueur,Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4124/the-ribbon
 113,No,Cordial,The Ribbon,Campari,Campari,Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4124/the-ribbon
-114,Yes,Cordial,Cold Shower,Crème de Menthe,Crème de Menthe (Green),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
+170,No,Cordial,Chocolate Squirrel,Frangelico,Crème de Cacao (Dark),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
 115,Yes,Cordial,Cold Shower,Crème de Menthe,Club Soda,Soda,4,Ounce,http://www.drinksmixer.com/cat/2406/
-116,No,Cordial,Dead Grasshopper,Crème de Menthe,Crème de Menthe (Green),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
-117,No,Cordial,Dead Grasshopper,Crème de Menthe,Crème de Cacao (White),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
+190,No,Cordial,Friar Tuck,Frangelico,Crème de Cacao (Dark),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
+205,No,Cordial,Monk's Butt,Frangelico,Crème de Cacao (Dark),Cordial,0.25,Ounce,http://www.drinksmixer.com/cat/2384/
 118,No,Cordial,Dead Grasshopper,Crème de Menthe,Milk,Mixer,1,Ounce,http://www.drinksmixer.com/cat/2406/
 119,No,Cordial,Dead Grasshopper,Crème de Menthe,Cinnamon Schnapps,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
-120,No,Cordial,Drunken Elf,Crème de Menthe,Crème de Menthe (Green),Cordial,1.5,Ounce,http://www.drinksmixer.com/cat/2406/
+212,No,Cordial,Snicker Recipe,Frangelico,Crème de Cacao (Dark),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
 121,No,Cordial,Drunken Elf,Crème de Menthe,Cinnamon Schnapps,Cordial,1.5,Ounce,http://www.drinksmixer.com/cat/2406/
 122,No,Cordial,Drunken Elf,Crème de Menthe,Light Cream,Mixer,1,Ounce,http://www.drinksmixer.com/cat/2406/
 123,No,Cordial,Drunken Elf,Crème de Menthe,Cinnamon Candies,Topping,10,Pieces,http://www.drinksmixer.com/cat/2406/
-124,No,Cordial,Frozen Andes Mint,Crème de Menthe,Crème de Menthe (White),Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
+652,No,Vodka,Coffee Martini,Vodka,Crème de Cacao (Dark),Cordial,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 125,No,Cordial,Frozen Andes Mint,Crème de Menthe,Kahlua,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
-126,No,Cordial,Frozen Andes Mint,Crème de Menthe,Crème de Cacao,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
+684,No,Whisky,Midnight Over Tennessee,Jack Daniels,Crème de Cacao (Dark),Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
 127,No,Cordial,Frozen Andes Mint,Crème de Menthe,Baileys Liqueur,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
 128,No,Cordial,Frozen Andes Mint,Crème de Menthe,Milk,Mixer,1.5,Ounce,http://www.drinksmixer.com/cat/2406/
 129,No,Cordial,Frozen Andes Mint,Crème de Menthe,Ice Cream,Mixer,2,Scoops,http://www.drinksmixer.com/cat/2406/
-130,Yes,Cordial,Irish Pride,Crème de Menthe,Crème de Menthe (Green),Cordial,3,Ounce,http://www.drinksmixer.com/cat/2406/
+22,No,Cognac,Chocolate Mint Alexander,Ansac,Crème de Cacao (White),Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
 131,Yes,Cordial,Irish Pride,Crème de Menthe,Almond Liqueur,Cordial,3,Ounce,http://www.drinksmixer.com/cat/2406/
 132,Yes,Cordial,Irish Pride,Crème de Menthe,Lemon Juice,Fruit,2,Ounce,http://www.drinksmixer.com/cat/2406/
-133,Yes,Cordial,Mexican Grasshopper,Crème de Menthe,Crème de Menthe (Green),Cordial,2,Ounce,http://www.drinksmixer.com/cat/2406/
+117,No,Cordial,Dead Grasshopper,Crème de Menthe,Crème de Cacao (White),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
 134,Yes,Cordial,Mexican Grasshopper,Crème de Menthe,Kahlua,Cordial,2,Ounce,http://www.drinksmixer.com/cat/2406/
 135,Yes,Cordial,Mexican Grasshopper,Crème de Menthe,Light Cream,Mixer,2,Ounce,http://www.drinksmixer.com/cat/2406/
-136,No,Cordial,Mint Highball,Crème de Menthe,Crème de Menthe (Green),Cordial,2,Ounce,http://www.drinksmixer.com/cat/2406/
-137,No,Cordial,Mint Highball,Crème de Menthe,Ginger Ale,Soda,4,Ounce,http://www.drinksmixer.com/cat/2406/
-138,No,Cordial,Peppermint Cream,Crème de Menthe,Crème de Menthe (Green),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
 139,No,Cordial,Peppermint Cream,Crème de Menthe,Crème de Cacao (White),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
+137,No,Cordial,Mint Highball,Crème de Menthe,Ginger Ale,Soda,4,Ounce,http://www.drinksmixer.com/cat/2406/
+309,No,Gin,Fire Ice,Bombay,Crème de Cacao (White),Cordial,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
+339,No,Gin,Queen of Hearts,Bombay,Crème de Cacao (White),Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-of-hearts/
 140,No,Cordial,Peppermint Cream,Crème de Menthe,Frangelico Liqueur,Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
 141,No,Cordial,Peppermint Cream,Crème de Menthe,Baileys Liqueur,Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
 142,No,Cordial,Peppermint Cream,Crème de Menthe,Milk,Mixer,1,Ounce,http://www.drinksmixer.com/cat/2406/
-143,No,Cordial,Peppermint Crisp,Crème de Menthe,Crème de Menthe (White),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
+29,No,Cognac,Cognac Alexander,Ansac,Crème de Cacao (Dark),Cordial,0.66,Ounce,ansac-cognac.fr/cocktails/
 144,No,Cordial,Peppermint Crisp,Crème de Menthe,Kahlua,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
 145,No,Cordial,Peppermint Crisp,Crème de Menthe,Milk,Mixer,0,Fill,http://www.drinksmixer.com/cat/2406/
-146,No,Cordial,Peppermint Penguin,Crème de Menthe,Crème de Menthe (Green),Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
+269,No,Gin,Tom Sweeney,Beefeater,Crème de Caissis,Cordial,1,Ounce,http://www.drinksmixer.com/drink3397.html
 147,No,Cordial,Peppermint Penguin,Crème de Menthe,Chocolate Mint Liqueur,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
 148,No,Cordial,Peppermint Penguin,Crème de Menthe,Oreos,Topping,3,Cookies,http://www.drinksmixer.com/cat/2406/
 149,No,Cordial,Peppermint Penguin,Crème de Menthe,Light Cream,Mixer,3,Ounce,http://www.drinksmixer.com/cat/2406/
 150,No,Cordial,Peppermint Penguin,Crème de Menthe,Whipped Cream,Topping,0,Fill,http://www.drinksmixer.com/cat/2406/
-151,Yes,Cordial,Port and Starboard,Crème de Menthe,Crème de Menthe (Green),Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
+293,No,Gin,Cassis Mule,Bombay,Crème de Caissis,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/cassis-mule/
 152,Yes,Cordial,Port and Starboard,Crème de Menthe,Grenadine,Mixer,1,Tablespoon,http://www.drinksmixer.com/cat/2406/
 153,No,Cordial,Alaskan Polar Bear,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 154,No,Cordial,Alaskan Polar Bear,Frangelico,Almond Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
@@ -158,26 +158,26 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 157,No,Cordial,Alaskan Polar Bear,Frangelico,Ice Cream,Mixer,1,Scoops,http://www.drinksmixer.com/cat/2384/
 158,No,Cordial,Brazilian Monk,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 159,No,Cordial,Brazilian Monk,Frangelico,Kahlua,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
-160,No,Cordial,Brazilian Monk,Frangelico,Crème de Cacao (Dark),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
+538,No,Tequila,Corazon Tequila Sunrise,Corazon,Crème de Caissis,Cordial,1.5,Part,https://www.barnonedrinks.com/drinks/c/corazon-tequila-sunrise-13761.html
 161,No,Cordial,Brazilian Monk,Frangelico,Dry Sherry,Wine,0.5,Ounce,http://www.drinksmixer.com/cat/2384/
 162,No,Cordial,Brazilian Monk,Frangelico,Ice Cream,Mixer,4,Tablespoon,http://www.drinksmixer.com/cat/2384/
 163,No,Cordial,Celeste Sunrise,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 164,No,Cordial,Celeste Sunrise,Frangelico,Strawberry Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 165,No,Cordial,Celeste Sunrise,Frangelico,Advocaat Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 166,No,Cordial,Celeste Sunrise,Frangelico,Cream,Mixer,2,Ounce,http://www.drinksmixer.com/cat/2384/
-167,No,Cordial,Celeste Sunrise,Frangelico,Lemonade,Mixer,0,Fill,http://www.drinksmixer.com/cat/2384/
+49,No,Cognac,Stinger,Ansac,Crème de Menthe,Cordial,0.66,Ounce,ansac-cognac.fr/cocktails/
 168,No,Cordial,Chocolate Squirrel,Frangelico,Frangelico Liqueur,Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
 169,No,Cordial,Chocolate Squirrel,Frangelico,Almond Liqueur,Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
-170,No,Cordial,Chocolate Squirrel,Frangelico,Crème de Cacao (Dark),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
+23,No,Cognac,Chocolate Mint Alexander,Ansac,Crème de Menthe (Green),Cordial,0.33,Ounce,https://www.diffordsguide.com/cocktails/recipe/4292/choc-mint-alexander
 171,No,Cordial,Chocolate Squirrel,Frangelico,Cream,Mixer,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
 172,No,Cordial,Cinnamon Nuts and Cream,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 173,No,Cordial,Cinnamon Nuts and Cream,Frangelico,Cinnamon Schnapps,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2384/
 174,No,Cordial,Cinnamon Nuts and Cream,Frangelico,Almond Liqueur,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2384/
 175,No,Cordial,Cinnamon Nuts and Cream,Frangelico,Cream,Mixer,1,Ounce,http://www.drinksmixer.com/cat/2384/
 176,No,Cordial,End of My Ropes,Frangelico,Frangelico Liqueur,Cordial,1.5,Ounce,http://www.drinksmixer.com/cat/2384/
-177,No,Cordial,End of My Ropes,Frangelico,Crème de Banana,Cordial,2,Teaspoon,http://www.drinksmixer.com/cat/2384/
+114,Yes,Cordial,Cold Shower,Crème de Menthe,Crème de Menthe (Green),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
 178,No,Cordial,End of My Ropes,Frangelico,Pineapple Juice,Juice,1,Ounce,http://www.drinksmixer.com/cat/2384/
-179,No,Cordial,End of My Ropes,Frangelico,Bitters,Bitters,1,Dashes,http://www.drinksmixer.com/cat/2384/
+179,No,Cordial,End of My Ropes,Frangelico,Angostura Bitters,Bitters,1,Dashes,http://www.drinksmixer.com/cat/2384/
 180,No,Cordial,Frangelico Hot Chocolate,Frangelico,Frangelico Liqueur,Cordial,2,Ounce,http://www.drinksmixer.com/cat/2384/
 181,No,Cordial,Frangelico Hot Chocolate,Frangelico,Hot Chocolate,Mixer,6,Ounce,http://www.drinksmixer.com/cat/2384/
 182,No,Cordial,Frangelico Sour,Frangelico,Frangelico Liqueur,Cordial,1.5,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
@@ -188,7 +188,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 187,No,Cordial,French Fry,Frangelico,Lime Juice,Fruit,2,Ounce,http://www.drinksmixer.com/cat/2384/
 188,No,Cordial,French Fry,Frangelico,Triple Sec,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2384/
 189,No,Cordial,Friar Tuck,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
-190,No,Cordial,Friar Tuck,Frangelico,Crème de Cacao (Dark),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
+116,No,Cordial,Dead Grasshopper,Crème de Menthe,Crème de Menthe (Green),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
 191,No,Cordial,Friar Tuck,Frangelico,Cream,Mixer,2,Ounce,http://www.drinksmixer.com/cat/2384/
 192,No,Cordial,Friesian,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 193,No,Cordial,Friesian,Frangelico,Almond Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
@@ -203,20 +203,20 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 202,No,Cordial,Monk on Coke,Frangelico,Coke,Soda,0,Fill,http://www.drinksmixer.com/cat/2384/
 203,No,Cordial,Monk's Butt,Frangelico,Frangelico Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 204,No,Cordial,Monk's Butt,Frangelico,Buttescotch Schnapps,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
-205,No,Cordial,Monk's Butt,Frangelico,Crème de Cacao (Dark),Cordial,0.25,Ounce,http://www.drinksmixer.com/cat/2384/
+120,No,Cordial,Drunken Elf,Crème de Menthe,Crème de Menthe (Green),Cordial,1.5,Ounce,http://www.drinksmixer.com/cat/2406/
 206,No,Cordial,Monk's Butt,Frangelico,Milk,Mixer,1,Ounce,http://www.drinksmixer.com/cat/2384/
 207,No,Cordial,Nuts and Berries,Frangelico,Frangelico Liqueur,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2384/
 208,No,Cordial,Nuts and Berries,Frangelico,Chambord,Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2384/
 209,No,Cordial,Nuts and Berries,Frangelico,Cream,Mixer,2,Ounce,http://www.drinksmixer.com/cat/2384/
 210,No,Cordial,Snicker Recipe,Frangelico,Frangelico Liqueur,Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
 211,No,Cordial,Snicker Recipe,Frangelico,Baileys Liqueur,Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
-212,No,Cordial,Snicker Recipe,Frangelico,Crème de Cacao (Dark),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
+130,Yes,Cordial,Irish Pride,Crème de Menthe,Crème de Menthe (Green),Cordial,3,Ounce,http://www.drinksmixer.com/cat/2406/
 213,No,Cordial,Snicker Recipe,Frangelico,Cream,Mixer,0.75,Ounce,http://www.drinksmixer.com/cat/2384/
 214,No,Cordial,Vixen,Frangelico,Frangelico Liqueur,Cordial,5,Ounce,http://www.drinksmixer.com/cat/2384/
 215,No,Cordial,Vixen,Frangelico,Kahlua,Cordial,1,Ounce,http://www.drinksmixer.com/cat/2384/
 216,No,Cordial,Vixen,Frangelico,Grenadine,Mixer,1,Ounce,http://www.drinksmixer.com/cat/2384/
 217,No,Cordial,Cherry Coffee Coke,Kahlua,Kahlua,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
-218,No,Cordial,Cherry Coffee Coke,Kahlua,Luxardo Liqueur,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
+218,No,Cordial,Cherry Coffee Coke,Kahlua,Maraschino Liqueur,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 219,No,Cordial,Cherry Coffee Coke,Kahlua,Coke,Soda,6,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 220,No,Cordial,Hot Chocolate,Kahlua,Kahlua,Cordial,2,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 221,No,Cordial,Hot Chocolate,Kahlua,Hot Chocolate,Mixer,8,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
@@ -227,10 +227,10 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 226,Yes,Cordial,Kahlua Sour,Kahlua,Simple Syrup,Syrup,0.5,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 227,Yes,Cordial,Kahlua Sour,Kahlua,Lemon Juice,Fruit,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 228,No,Cordial,Orange Coffee Coke,Kahlua,Kahlua,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
-229,No,Cordial,Orange Coffee Coke,Kahlua,Grand Mariner,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
+229,No,Cordial,Orange Coffee Coke,Kahlua,Grand Marnier,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 230,No,Cordial,Orange Coffee Coke,Kahlua,Coke,Soda,6,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 231,No,Cordial,Apple Strudel,Rumple Minze,Rumple Minze,Cordial,1.5,Ounce,https://www.barnonedrinks.com/drinks/a/apple-strudel-271.html
-232,No,Cordial,Apple Strudel,Rumple Minze,Apple Cider,Mixer,0,Fill,https://www.barnonedrinks.com/drinks/a/apple-strudel-271.html
+133,Yes,Cordial,Mexican Grasshopper,Crème de Menthe,Crème de Menthe (Green),Cordial,2,Ounce,http://www.drinksmixer.com/cat/2406/
 233,No,Cordial,Bailey's Mint Kiss,Rumple Minze,Rumple Minze,Cordial,0.5,Ounce,https://www.barnonedrinks.com/drinks/b/baileys-mint-kiss-6418.html
 234,No,Cordial,Bailey's Mint Kiss,Rumple Minze,Baileys Liqueur,Cordial,1,Ounce,https://www.barnonedrinks.com/drinks/b/baileys-mint-kiss-6418.html
 235,No,Cordial,Bailey's Mint Kiss,Rumple Minze,Peppermint Schnapps,Cordial,0.5,Ounce,https://www.barnonedrinks.com/drinks/b/baileys-mint-kiss-6418.html
@@ -255,7 +255,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 254,No,Gin,Deep Valley,Beefeater,Lemon Juice,Fruit,0.5,Ounce,http://www.drinksmixer.com/drink245.html
 255,No,Gin,Deep Valley,Beefeater,Blue Curacao,Cordial,1,Ounce,http://www.drinksmixer.com/drink245.html
 256,No,Gin,Fall Cider Punch,Beefeater,Beefeater Dry,Spirit,1.5,Ounce,https://www.beefeatergin.com/en-US/cocktails/fall-cider-gin-punch
-257,No,Gin,Fall Cider Punch,Beefeater,Apple Cider,Mixer,1.5,Ounce,https://www.beefeatergin.com/en-US/cocktails/fall-cider-gin-punch
+136,No,Cordial,Mint Highball,Crème de Menthe,Crème de Menthe (Green),Cordial,2,Ounce,http://www.drinksmixer.com/cat/2406/
 258,No,Gin,Fall Cider Punch,Beefeater,Ginger Beer,Mixer,2,Ounce,https://www.beefeatergin.com/en-US/cocktails/fall-cider-gin-punch
 259,No,Gin,Fall Cider Punch,Beefeater,Lemon Juice,Fruit,0.5,Ounce,https://www.beefeatergin.com/en-US/cocktails/fall-cider-gin-punch
 260,No,Gin,Fall Cider Punch,Beefeater,Angostura Bitters,Bitters,2,Dashes,https://www.beefeatergin.com/en-US/cocktails/fall-cider-gin-punch
@@ -267,16 +267,16 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 266,No,Gin,Sage Against the Machine,Beefeater,Lemon Juice,Fruit,10,Milliliters,https://www.beefeatergin.com/en-US/cocktails/sage-against-the-machine
 267,No,Gin,Tom Sweeney,Beefeater,Beefeater Dry,Spirit,2.5,Ounce,http://www.drinksmixer.com/drink3397.html
 268,No,Gin,Tom Sweeney,Beefeater,Sweet and Sour Mix,Mixer,1,Ounce,http://www.drinksmixer.com/drink3397.html
-269,No,Gin,Tom Sweeney,Beefeater,Crème de Caissis,Cordial,1,Ounce,http://www.drinksmixer.com/drink3397.html
+138,No,Cordial,Peppermint Cream,Crème de Menthe,Crème de Menthe (Green),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
 270,No,Gin,White Lady,Beefeater,Aquafaba,Unknown,1.75,Part,https://www.beefeatergin.com/en-US/cocktails/white-lady
 271,No,Gin,White Lady,Beefeater,Egg Whites,Topping,1,Egg,https://www.beefeatergin.com/en-US/cocktails/white-lady
 272,No,Gin,White Lady,Beefeater,Beefeater Dry,Spirit,40,Milliliters,https://www.beefeatergin.com/en-US/cocktails/white-lady
 273,No,Gin,White Lady,Beefeater,Lemon Juice,Fruit,20,Milliliters,https://www.beefeatergin.com/en-US/cocktails/white-lady
 274,No,Gin,White Lady,Beefeater,Cointreau,Cordial,20,Milliliters,https://www.beefeatergin.com/en-US/cocktails/white-lady
-275,No,Gin,Yeoman's Passion,Beefeater,Dry Vermouth,Vermouth,0.5,Ounce,http://www.drinksmixer.com/drink7121.html
+275,No,Gin,Yeoman's Passion,Beefeater,Martini Extra Dry,Vermouth,0.5,Ounce,http://www.drinksmixer.com/drink7121.html
 276,No,Gin,Yeoman's Passion,Beefeater,Egg Whites,Topping,0.33,Ounce,http://www.drinksmixer.com/drink7121.html
 277,No,Gin,Yeoman's Passion,Beefeater,Beefeater Dry,Spirit,1,Ounce,http://www.drinksmixer.com/drink7121.html
-278,No,Gin,Yeoman's Passion,Beefeater,Passion fruit Juice,Juice,2,Ounce,http://www.drinksmixer.com/drink7121.html
+278,No,Gin,Yeoman's Passion,Beefeater,Passion Fruit Juice,Juice,2,Ounce,http://www.drinksmixer.com/drink7121.html
 279,No,Gin,Yeoman's Passion,Beefeater,Pisang Ambon Liqueur,Cordial,1,Ounce,http://www.drinksmixer.com/drink7121.html
 280,No,Gin,Brambled,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/brambled/
 281,No,Gin,Brambled,Bombay,Lemon Tonic Water,Mixer,100,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/brambled/
@@ -291,7 +291,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 290,No,Gin,Cassis Mule,Bombay,Ginger Beer,Mixer,75,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/cassis-mule/
 291,No,Gin,Cassis Mule,Bombay,Lime Juice,Fruit,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/cassis-mule/
 292,No,Gin,Cassis Mule,Bombay,Lime Wedge,Fruit,1,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/cassis-mule/
-293,No,Gin,Cassis Mule,Bombay,Crème de Caissis,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/cassis-mule/
+146,No,Cordial,Peppermint Penguin,Crème de Menthe,Crème de Menthe (Green),Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
 294,No,Gin,Cucamelon,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/cucamelon/
 295,No,Gin,Cucamelon,Bombay,Fever Tree Cucumber Tonic,Mixer,100,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/cucamelon/
 296,No,Gin,Cucamelon,Bombay,Grapefruit Wedge,Fruit,1,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/cucamelon/
@@ -301,13 +301,13 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 300,No,Gin,Deviation,Bombay,Schweppes Salty Lemon Tonic,Mixer,65,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/deviation/
 301,No,Gin,Deviation,Bombay,Lemon Juice,Fruit,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/deviation/
 302,No,Gin,Deviation,Bombay,Marischano Cherries,Fruit,4,Cherries,https://www.bombaysapphire.com/distillery/gin-cocktails/deviation/
-303,No,Gin,Deviation,Bombay,Crème de Violette,Cordial,5,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/deviation/
+151,Yes,Cordial,Port and Starboard,Crème de Menthe,Crème de Menthe (Green),Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
 304,No,Gin,Fire Ice,Bombay,Martini Fiero,Vermouth,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
 305,No,Gin,Fire Ice,Bombay,Bombay Sapphire,Spirit,25,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
 306,No,Gin,Fire Ice,Bombay,Woodford Reserve Bourbon,Spirit,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
 307,No,Gin,Fire Ice,Bombay,Ginger Beer,Mixer,40,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
 308,No,Gin,Fire Ice,Bombay,Cranberry Juice,Juice,35,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
-309,No,Gin,Fire Ice,Bombay,Crème de Cacao Blanco,Cordial,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/fire-ice/
+380,No,Gin,Fallen Angel,Rutte,Crème de Menthe (Green),Cordial,0.25,Ounce,https://www.diffordsguide.com/cocktails/recipe/2404/fallen-angel
 310,No,Gin,Garden Game,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/garden-game/
 311,No,Gin,Garden Game,Bombay,Pineapple Juice,Juice,40,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/garden-game/
 312,No,Gin,Garden Game,Bombay,Lemon Juice,Fruit,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/garden-game/
@@ -330,14 +330,14 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 329,No,Gin,Positive Libations,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/positive-libations/
 330,No,Gin,Positive Libations,Bombay,Strawberry Jam,Other,1,Jam,https://www.bombaysapphire.com/distillery/gin-cocktails/positive-libations/
 331,No,Gin,Positive Libations,Bombay,Lemon Wedge,Fruit,2,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/positive-libations/
-332,No,Gin,Queen Bee,Bombay,Honey Syrup*,Syrup,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
+332,No,Gin,Queen Bee,Bombay,Honey,Syrup,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
 333,No,Gin,Queen Bee,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
-334,No,Gin,Queen Bee,Bombay,Elderflower Tonic Water,Mixer,100,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
+685,No,Whisky,Midnight Over Tennessee,Jack Daniels,Crème de Menthe (Green),Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
 335,No,Gin,Queen Bee,Bombay,Orange Juice,Fruit,25,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
 336,No,Gin,Queen Bee,Bombay,Orange Wedge,Fruit,1,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
 337,No,Gin,Queen of Hearts,Bombay,Egg Whites,Topping,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-of-hearts/
 338,No,Gin,Queen of Hearts,Bombay,Bombay Sapphire,Spirit,25,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-of-hearts/
-339,No,Gin,Queen of Hearts,Bombay,Crème de Cacao Blanco,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-of-hearts/
+702,No,Whisky,Every-Body's Irish,Jameson,Crème de Menthe (Green),Cordial,0.25,Ounce,https://www.diffordsguide.com/cocktails/recipe/2651/every-bodys-irish-cocktail
 340,No,Gin,Queen of Hearts,Bombay,Raspberry Cordial,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-of-hearts/
 341,No,Gin,Queen of Hearts,Bombay,Peychauds Bitters,Bitters,3,Dashes,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-of-hearts/
 342,Yes,Gin,Rosemary Blue,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/spanish-riviera/
@@ -355,34 +355,34 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 354,No,Gin,Strawberries No Cream,Bombay,Monin Vanilla Syrup,Syrup,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/strawberries-no-cream/
 355,No,Gin,Strawberries No Cream,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/strawberries-no-cream/
 356,No,Gin,Strawberries No Cream,Bombay,Pink Grapefruit Juice,Fruit,75,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/strawberries-no-cream/
-357,No,Gin,Strawberries No Cream,Bombay,Strawberry,Fruit,1,Strawberry,https://www.bombaysapphire.com/distillery/gin-cocktails/strawberries-no-cream/
+357,No,Gin,Strawberries No Cream,Bombay,Strawberries,Fruit,1,Strawberry,https://www.bombaysapphire.com/distillery/gin-cocktails/strawberries-no-cream/
 358,No,Gin,Sugar Spice Everything Nice,Bombay,Orgeat Syrup,Syrup,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/sugar-spice-everything-nice/
 359,No,Gin,Sugar Spice Everything Nice,Bombay,Bombay Sapphire,Spirit,25,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/sugar-spice-everything-nice/
 360,No,Gin,Sugar Spice Everything Nice,Bombay,Cranberry Juice,Juice,85,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/sugar-spice-everything-nice/
-361,No,Gin,The Laverstroke,Bombay,Blanco Vermouth,Vermouth,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
+88,Yes,Cordial,Mi To,Campari,Martini Rosso,Vermouth,1.5,Ounce,https://www.campari.com/our-cocktails
 362,No,Gin,The Laverstroke,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
 363,No,Gin,The Laverstroke,Bombay,Fever Tree Ginger Ale,Soda,100,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
 364,No,Gin,The Laverstroke,Bombay,Lime Wedge,Fruit,2,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
-365,No,Gin,The Laverstroke,Bombay,St. Germain Elderflower,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
+733,No,Whisky,Shamrock,Jameson,Crème de Menthe (Green),Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/1814/shamrock
 366,No,Gin,The Laverstroke Anniversary,Bombay,Martini Ambrato,Vermouth,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke-anniversary-edition/
 367,No,Gin,The Laverstroke Anniversary,Bombay,Bombay Sapphire,Spirit,25,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke-anniversary-edition/
 368,No,Gin,The Laverstroke Anniversary,Bombay,Ginger Ale,Soda,100,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke-anniversary-edition/
 369,No,Gin,The Laverstroke Anniversary,Bombay,Lime Wedge,Fruit,2,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke-anniversary-edition/
-370,No,Gin,The Laverstroke Anniversary,Bombay,St. Germain Elderflower,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke-anniversary-edition/
+2,No,Champagne,Champagne Blitz,Champagne,Crème de Menthe (White),Cordial,0.75,Ounce,http://www.drinksmixer.com/cat/2406/
 371,Yes,Gin,Thyme on Our Hands,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/thyme-on-our-hands/
 372,Yes,Gin,Thyme on Our Hands,Bombay,Tonic Water,Mixer,85,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/thyme-on-our-hands/
 373,Yes,Gin,Thyme on Our Hands,Bombay,Lemon Wedge,Fruit,1,Wedge,https://www.bombaysapphire.com/distillery/gin-cocktails/thyme-on-our-hands/
 374,Yes,Gin,Thyme on Our Hands,Bombay,Limoncello,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/thyme-on-our-hands/
-375,Yes,Gin,Vespear Martini,Bombay,Blanco Vermouth,Vermouth,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/vespear-martini/
+91,Yes,Cordial,Negroni Campari,Campari,Martini Rosso,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
 376,Yes,Gin,Vespear Martini,Bombay,Bombay Sapphire,Spirit,50,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/vespear-martini/
 377,Yes,Gin,Vespear Martini,Bombay,Grey Goose La Poire,Spirit,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/vespear-martini/
 378,Yes,Gin,Vespear Martini,Bombay,Lemon Peel,Fruit,1,Peel,https://www.bombaysapphire.com/distillery/gin-cocktails/vespear-martini/
 379,No,Gin,Fallen Angel,Rutte,Rutte Dry Gin,Spirit,2,Ounce,https://www.diffordsguide.com/cocktails/recipe/2404/fallen-angel
-380,No,Gin,Fallen Angel,Rutte,Crème de Menthe (Green),Cordial,0.25,Ounce,https://www.diffordsguide.com/cocktails/recipe/2404/fallen-angel
+124,No,Cordial,Frozen Andes Mint,Crème de Menthe,Crème de Menthe (White),Cordial,0.5,Ounce,http://www.drinksmixer.com/cat/2406/
 381,No,Gin,Fallen Angel,Rutte,Giffard Sugar Cane Syrup,Syrup,0.25,Ounce,https://www.diffordsguide.com/cocktails/recipe/2404/fallen-angel
 382,No,Gin,Fallen Angel,Rutte,Lemon Juice,Fruit,1,Ounce,https://www.diffordsguide.com/cocktails/recipe/2404/fallen-angel
 383,No,Rum,Bronze Road,7 Fathoms,7 Fathoms Rum,Spirit,2,Ounce,https://caymanspirits.com/sevenfathomsrum/
-384,No,Rum,Bronze Road,7 Fathoms,Carpano Red Vermouth,Vermouth,0.5,Ounce,https://caymanspirits.com/sevenfathomsrum/
+93,No,Cordial,Negroni Sbagliato,Campari,Martini Rosso,Vermouth,1,Ounce,https://www.campari.com/our-cocktails
 385,No,Rum,Bronze Road,7 Fathoms,Maraschino Liqueur,Cordial,0.5,Ounce,https://caymanspirits.com/sevenfathomsrum/
 386,No,Rum,Bronze Road,7 Fathoms,Angostura Bitters,Bitters,1,Dashes,https://caymanspirits.com/sevenfathomsrum/
 387,No,Rum,Italian Tourist,7 Fathoms,7 Fathoms Rum,Spirit,1.5,Ounce,https://caymanspirits.com/sevenfathomsrum/
@@ -398,14 +398,14 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 397,No,Rum,Underwater Cave,7 Fathoms,Honey,Topping,1,Ounce,https://caymanspirits.com/sevenfathomsrum/
 398,No,Rum,Underwater Cave,7 Fathoms,Cardamon,Unknown,1,Pinch,https://caymanspirits.com/sevenfathomsrum/
 399,No,Rum,Underwater Cave,7 Fathoms,Lemon Juice,Fruit,0.5,Ounce,https://caymanspirits.com/sevenfathomsrum/
-400,No,Rum,DOC,Diplomatico,Raw Cocoa Powder Unsweetened,Topping,1,Pinch,https://rondiplomatico.com/cocktails/doc-ritual/
+143,No,Cordial,Peppermint Crisp,Crème de Menthe,Crème de Menthe (White),Cordial,1,Ounce,http://www.drinksmixer.com/cat/2406/
 401,No,Rum,DOC,Diplomatico,Diplomatico Rum,Spirit,60,Milliliters,https://rondiplomatico.com/cocktails/doc-ritual/
 402,No,Rum,DOC,Diplomatico,Orange Slice,Fruit,1,Slice,https://rondiplomatico.com/cocktails/doc-ritual/
 403,No,Rum,Less is More,Diplomatico,Diplomatico Rum,Spirit,60,Milliliters,https://rondiplomatico.com/cocktails/less-is-more-2/
 404,No,Rum,Less is More,Diplomatico,Soda,Soda,1,Splash,https://rondiplomatico.com/cocktails/less-is-more-2/
 405,No,Rum,Less is More,Diplomatico,Ice Sphere,Ice,1,Ice,https://rondiplomatico.com/cocktails/less-is-more-2/
 406,No,Rum,Less is More,Diplomatico,Orange Zest,Fruit,1,Zest,https://rondiplomatico.com/cocktails/less-is-more-2/
-407,No,Rum,Noble Diplomat,Diplomatico,Sweet Vermouth,Vermouth,20,Milliliters,https://rondiplomatico.com/cocktails/noble-diplomat/
+611,No,Vodka,Icon,Grey Goose,Dubonnet Vermouth,Vermouth,0.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/icon.html
 408,No,Rum,Noble Diplomat,Diplomatico,Cinnamon Tincture,Unknown,2,Dashes,https://rondiplomatico.com/cocktails/noble-diplomat/
 409,No,Rum,Noble Diplomat,Diplomatico,All Spice Syrup,Syrup,10,Milliliters,https://rondiplomatico.com/cocktails/noble-diplomat/
 410,No,Rum,Noble Diplomat,Diplomatico,Diplomatico Rum,Spirit,30,Milliliters,https://rondiplomatico.com/cocktails/noble-diplomat/
@@ -413,7 +413,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 412,No,Rum,Noble Diplomat,Diplomatico,Angostura Bitters,Bitters,2,Dashes,https://rondiplomatico.com/cocktails/noble-diplomat/
 413,No,Rum,Signed and Sealed,Diplomatico,Strawberry Cocchi Rosa,Unknown,30,Milliliters,https://rondiplomatico.com/cocktails/signed-sealed/
 414,No,Rum,Signed and Sealed,Diplomatico,Diplomatico Rum,Spirit,40,Milliliters,https://rondiplomatico.com/cocktails/signed-sealed/
-415,No,Rum,Signed and Sealed,Diplomatico,Lavender Bitters,Bitters,3,Dashes,https://rondiplomatico.com/cocktails/signed-sealed/
+303,No,Gin,Deviation,Bombay,Crème de Violette,Cordial,5,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/deviation/
 416,Yes,Rum,Black Death Wish,Rum,Silver Rum,Spirit,1,Ounce,https://www.barnonedrinks.com/drinks/b/black-death-wish-6196.html
 417,Yes,Rum,Black Death Wish,Rum,Rumple Minze,Cordial,1,Ounce,https://www.barnonedrinks.com/drinks/b/black-death-wish-6196.html
 418,Yes,Rum,Black Death Wish,Rum,Blackberry Schnapps,Cordial,1,Ounce,https://www.barnonedrinks.com/drinks/b/black-death-wish-6196.html
@@ -459,15 +459,15 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 458,No,Tequila,Casa Pumpkin Spice,Casamigos,Nutmeg,Spice,1,Pinch,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
 459,No,Tequila,Casa Pumpkin Spice,Casamigos,Canned Pumpkin,Other,2,Scoops,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
 460,No,Tequila,Casa Pumpkin Spice,Casamigos,Agave Nectar,Mixer,1,Ounce,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
-461,No,Tequila,Casa Pumpkin Spice,Casamigos,Crème,Cordial,1,Ounce,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
+461,No,Tequila,Casa Pumpkin Spice,Casamigos,Cream,Cordial,1,Ounce,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
 462,No,Tequila,Casa Pumpkin Spice,Casamigos,Almond Liqueur,Cordial,0.25,Ounce,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
 463,No,Tequila,Casa Pumpkin Spice,Casamigos,Angostura Bitters,Bitters,2,Dashes,https://www.casamigos.com/en-us/cocktails/casa-pumpkin-spice/
 464,No,Tequila,Casa Repo Spritz,Casamigos,Prosecco,Wine,3.5,Ounce,https://www.casamigos.com/en-us/cocktails/casa-repo-spritz/
-465,No,Tequila,Casa Repo Spritz,Casamigos,Vermouth Rosato,Vermouth,1.75,Ounce,https://www.casamigos.com/en-us/cocktails/casa-repo-spritz/
+384,No,Rum,Bronze Road,7 Fathoms,Carpano Red Vermouth,Vermouth,0.5,Ounce,https://caymanspirits.com/sevenfathomsrum/
 466,No,Tequila,Casa Repo Spritz,Casamigos,Sugar Syrup,Syrup,0.5,Ounce,https://www.casamigos.com/en-us/cocktails/casa-repo-spritz/
 467,No,Tequila,Casa Repo Spritz,Casamigos,Casamigos Reposado,Spirit,1.5,Ounce,https://www.casamigos.com/en-us/cocktails/casa-repo-spritz/
 468,No,Tequila,Casa Repo Spritz,Casamigos,Lemon Juice,Fruit,0.25,Ounce,https://www.casamigos.com/en-us/cocktails/casa-repo-spritz/
-469,Yes,Tequila,Casa Toddy,Casamigos,Honey Syrup*,Syrup,1,Ounce,https://www.casamigos.com/en-us/cocktails/casa-toddy/
+469,Yes,Tequila,Casa Toddy,Casamigos,Honey,Syrup,1,Ounce,https://www.casamigos.com/en-us/cocktails/casa-toddy/
 470,Yes,Tequila,Casa Toddy,Casamigos,Casamigos Reposado,Spirit,2,Ounce,https://www.casamigos.com/en-us/cocktails/casa-toddy/
 471,Yes,Tequila,Casa Toddy,Casamigos,Hot Water,Mixer,0,Top,https://www.casamigos.com/en-us/cocktails/casa-toddy/
 472,Yes,Tequila,Casa Toddy,Casamigos,Lemon Juice,Fruit,1,Ounce,https://www.casamigos.com/en-us/cocktails/casa-toddy/
@@ -536,7 +536,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 535,No,Tequila,Corazon Tequila Sunrise,Corazon,Seltzer Water,Mixer,1,Part,https://www.barnonedrinks.com/drinks/c/corazon-tequila-sunrise-13761.html
 536,No,Tequila,Corazon Tequila Sunrise,Corazon,Grenadine,Mixer,1,Splash,https://www.barnonedrinks.com/drinks/c/corazon-tequila-sunrise-13761.html
 537,No,Tequila,Corazon Tequila Sunrise,Corazon,Lime Juice,Fruit,1.5,Part,https://www.barnonedrinks.com/drinks/c/corazon-tequila-sunrise-13761.html
-538,No,Tequila,Corazon Tequila Sunrise,Corazon,Crème de Caissis,Cordial,1.5,Part,https://www.barnonedrinks.com/drinks/c/corazon-tequila-sunrise-13761.html
+571,No,Vodka,Black Orchid,Grey Goose,Crème de Violette,Cordial,1.5,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 539,No,Tequila,Dirty Mother,Tequila,Tequila,Spirit,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 540,No,Tequila,Dirty Mother,Tequila,Kahlua,Cordial,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 541,No,Tequila,Dirty Mother,Tequila,Milk,Mixer,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
@@ -552,7 +552,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 551,No,Vodka,Apple Smash,Effen,Lime Juice,Fruit,0.25,Ounce,https://www.ciroc.com/en-us/vodka-drinks/vodka-cranberry
 552,No,Vodka,Green Apple Cooler,Effen,Effen Green Apple,Spirit,3,Ounce,https://www.pinterest.com/pin/448882287857283339/
 553,No,Vodka,Green Apple Cooler,Effen,Lemon Lime Soda,Soda,2,Ounce,https://www.pinterest.com/pin/448882287857283339/
-554,No,Vodka,Green Apple Cooler,Effen,Lemonade,Mixer,6,Ounce,https://www.pinterest.com/pin/448882287857283339/
+19,No,Cognac,Canton Shandy,Ansac,Domain de Canton,Cordial,15,Milliliters,http://kuletos.com.au/cocktails/How-To-Make-A/Canton-Shandy
 555,No,Vodka,Jolly Rancher,Effen,Effen Green Apple,Spirit,1,Ounce,https://www.thespruceeats.com/jolly-rancher-vodka-cocktail-761086
 556,No,Vodka,Jolly Rancher,Effen,Cranberry Juice,Juice,4,Ounce,https://www.thespruceeats.com/jolly-rancher-vodka-cocktail-761086
 557,No,Vodka,Jolly Rancher,Effen,Peach Liqueur,Cordial,1,Ounce,https://www.thespruceeats.com/jolly-rancher-vodka-cocktail-761086
@@ -569,7 +569,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 568,No,Vodka,Black Orchid,Grey Goose,Simple Syrup,Syrup,1.5,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 569,No,Vodka,Black Orchid,Grey Goose,Grey Goose LOrange,Spirit,2.5,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 570,No,Vodka,Black Orchid,Grey Goose,Lemon Juice,Fruit,2,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
-571,No,Vodka,Black Orchid,Grey Goose,Crème de Violette,Cordial,1.5,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
+334,No,Gin,Queen Bee,Bombay,Elderflower Tonic Water,Mixer,100,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/queen-bee/
 572,No,Vodka,Black Orchid,Grey Goose,Peach Bitters,Bitters,1,Dashes,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 573,No,Vodka,Cotes d'Azur,Grey Goose,Grey Goose Le Citron,Spirit,2,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 574,No,Vodka,Cotes d'Azur,Grey Goose,Grapefruit Zest,Fruit,1,Zest,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
@@ -590,7 +590,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 589,No,Vodka,French Hawaiian,Grey Goose,Lime Juice,Fruit,1,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 590,No,Vodka,Fresh Berry Lemonade,Grey Goose,Grey Goose Le Citron,Spirit,1,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 591,No,Vodka,Fresh Berry Lemonade,Grey Goose,Raspberries,Fruit,3,Raspberries,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
-592,No,Vodka,Fresh Berry Lemonade,Grey Goose,Lemonade,Mixer,4,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
+603,No,Vodka,Honeydew Cooler,Grey Goose,Honeydew Melon,Fruit,1,Slices,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
 593,No,Vodka,Fresh Berry Lemonade,Grey Goose,Sugar Syrup,Syrup,1,Teaspoon,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 594,No,Vodka,Grey Goose Verde,Grey Goose,Grey Goose,Spirit,50,Milliliters,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/grey-goose-verte.html
 595,No,Vodka,Grey Goose Verde,Grey Goose,Green Chartreuse,Cordial,10,Milliliters,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/grey-goose-verte.html
@@ -601,15 +601,15 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 600,No,Vodka,Grey Hound,Grey Goose,Lime Slice,Fruit,1,Slices,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/grey-hound.html
 601,No,Vodka,Grey Hound,Grey Goose,Grapefruit Juice,Fruit,2,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/grey-hound.html
 602,No,Vodka,Honeydew Cooler,Grey Goose,Grey Goose,Spirit,1.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
-603,No,Vodka,Honeydew Cooler,Grey Goose,Honeydew Melon,Fruit,1,Slices,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
+679,No,Whisky,Forbidden Fruit,Irish Cider Whisky,Irish Cider Whisky,Spirit,1.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 604,No,Vodka,Honeydew Cooler,Grey Goose,Honey,Topping,3,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
 605,No,Vodka,Honeydew Cooler,Grey Goose,Coconut Water,Mixer,3,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
-606,No,Vodka,Honeydew Cooler,Grey Goose,Crème de Banana,Cordial,15,Milliliters,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
+415,No,Rum,Signed and Sealed,Diplomatico,Lavender Bitters,Bitters,3,Dashes,https://rondiplomatico.com/cocktails/signed-sealed/
 607,No,Vodka,Honeydew Cooler,Grey Goose,Club Soda,Soda,0,Fill,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
 608,No,Vodka,Honeydew Cooler,Grey Goose,Simple Syrup,Syrup,0.75,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
 609,No,Vodka,Honeydew Cooler,Grey Goose,Lime Juice,Fruit,2.25,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/honeydew-cooler.html
 610,No,Vodka,Icon,Grey Goose,Grey Goose,Spirit,3,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/icon.html
-611,No,Vodka,Icon,Grey Goose,Dubonnet Vermouth,Vermouth,0.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/icon.html
+361,No,Gin,The Laverstroke,Bombay,Blanco Vermouth,Vermouth,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
 612,No,Vodka,Icon,Grey Goose,Suze,Unknown,1,Dashes,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/icon.html
 613,No,Vodka,Icon,Grey Goose,Lemon Zest,Fruit,1,Zest,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/icon.html
 614,No,Vodka,Icon,Grey Goose,Peychauds Bitters,Bitters,1,Dashes,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/icon.html
@@ -621,7 +621,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 620,No,Vodka,Le Grand Fizz,Grey Goose,Grey Goose,Spirit,2,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 621,No,Vodka,Le Grand Fizz,Grey Goose,Perrier,Mixer,2,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 622,No,Vodka,Le Grand Fizz,Grey Goose,Lime Juice,Fruit,1,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
-623,No,Vodka,Le Grand Fizz,Grey Goose,St. Germain Elderflower,Cordial,1.5,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
+167,No,Cordial,Celeste Sunrise,Frangelico,Lemonade,Mixer,0,Fill,http://www.drinksmixer.com/cat/2384/
 624,No,Vodka,Northern Lights,Grey Goose,Grey Goose,Spirit,1.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/northern-lights.html
 625,No,Vodka,Northern Lights,Grey Goose,Sparkling Wine,Wine,1,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/northern-lights.html
 626,No,Vodka,Northern Lights,Grey Goose,Colonial Bitters,Bitters,2,Dashes,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/northern-lights.html
@@ -632,7 +632,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 631,No,Vodka,Russian Cocktail,Grey Goose,Brandied Cherry,Unknown,1,Cherries,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/russian-cocktail.html
 632,No,Vodka,The Sequel,Grey Goose,Grey Goose,Spirit,1.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/the-sequel.html
 633,No,Vodka,The Sequel,Grey Goose,Sherry,Wine,0.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/the-sequel.html
-634,No,Vodka,The Sequel,Grey Goose,Crème de Cacao,Cordial,0.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/the-sequel.html
+554,No,Vodka,Green Apple Cooler,Effen,Lemonade,Mixer,6,Ounce,https://www.pinterest.com/pin/448882287857283339/
 635,No,Vodka,The Sequel,Grey Goose,Espresso,Mixer,0.75,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/the-sequel.html
 636,No,Vodka,Truffle d'Hiver,Grey Goose,Grey Goose,Spirit,1.5,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/truffe-d-hiver.html
 637,No,Vodka,Truffle d'Hiver,Grey Goose,Fino Sherry,Wine,1,Ounce,https://www.greygoose.com/en-gl/cocktails/grey-goose-vodka/truffe-d-hiver.html
@@ -650,7 +650,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 649,No,Vodka,Brain Eraser,Vodka,Cinnamon Schnapps,Cordial,1,Ounce,https://cocktails.lovetoknow.com/Mind_Eraser_Drink
 650,No,Vodka,Coffee Martini,Vodka,Vodka,Spirit,1.5,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 651,No,Vodka,Coffee Martini,Vodka,Kahlua,Cordial,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
-652,No,Vodka,Coffee Martini,Vodka,Crème de Cacao (Dark),Cordial,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
+592,No,Vodka,Fresh Berry Lemonade,Grey Goose,Lemonade,Mixer,4,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 653,No,Vodka,Colorado Bulldog,Vodka,Vodka,Spirit,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 654,No,Vodka,Colorado Bulldog,Vodka,Kahlua,Cordial,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 655,No,Vodka,Colorado Bulldog,Vodka,Heavy Cream,Mixer,1,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
@@ -660,10 +660,10 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 659,Yes,Vodka,Envy Martini,Vodka,Melon Liqueur,Cordial,0.75,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 660,No,Vodka,Frangelico Martini,Vodka,Vodka,Spirit,1.5,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 661,No,Vodka,Frangelico Martini,Vodka,Frangelico Liqueur,Cordial,0.5,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
-662,No,Vodka,Frangelico Martini,Vodka,Sweet Vermouth,Vermouth,0.5,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
+375,Yes,Gin,Vespear Martini,Bombay,Blanco Vermouth,Vermouth,10,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/vespear-martini/
 663,No,Vodka,Hazelnut Cherry Fizz,Vodka,Vodka,Spirit,1.5,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 664,No,Vodka,Hazelnut Cherry Fizz,Vodka,Frangelico Liqueur,Cordial,0.75,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
-665,No,Vodka,Hazelnut Cherry Fizz,Vodka,Luxardo Liqueur,Cordial,0.75,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
+665,No,Vodka,Hazelnut Cherry Fizz,Vodka,Maraschino Liqueur,Cordial,0.75,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 666,No,Vodka,Hazelnut Cherry Fizz,Vodka,Club Soda,Soda,3,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 667,No,Vodka,Hazelnut Cherry Fizz,Vodka,Lemon Juice,Fruit,0.75,Ounce,https://cocktails.lovetoknow.com/cocktail-recipes/12-luscious-easy-frangelico-drink-recipes
 668,Yes,Vodka,Mind Eraser,Vodka,Vodka,Spirit,2,Ounce,https://cocktails.lovetoknow.com/Mind_Eraser_Drink
@@ -677,13 +677,13 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 676,No,Vodka,Quaalude,Vodka,Kahlua,Cordial,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 677,No,Vodka,Quaalude,Vodka,Frangelico Liqueur,Cordial,0.75,Ounce,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
 678,No,Vodka,Quaalude,Vodka,Cream,Mixer,1,Splash,https://advancedmixology.com/blogs/art-of-mixology/29-kahlua-drink-recipes-you-can-try-at-home
-679,No,Whisky,Forbidden Fruit,Irish Cider Whisky,Irish Cider Whisky,Spirit,1.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
+400,No,Rum,DOC,Diplomatico,Raw Cocoa Powder Unsweetened,Topping,1,Pinch,https://rondiplomatico.com/cocktails/doc-ritual/
 680,No,Whisky,Forbidden Fruit,Irish Cider Whisky,Orange Bitters,Bitters,1,Dashes,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 681,No,Whisky,Forbidden Fruit,Irish Cider Whisky,Aperol,Cordial,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 682,No,Whisky,Midnight Over Tennessee,Jack Daniels,Jack Daniels,Spirit,2,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
 683,No,Whisky,Midnight Over Tennessee,Jack Daniels,Kahlua,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
-684,No,Whisky,Midnight Over Tennessee,Jack Daniels,Crème de Cacao (Dark),Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
-685,No,Whisky,Midnight Over Tennessee,Jack Daniels,Crème de Menthe (Green),Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
+103,No,Cordial,Old Friend,Campari,St. Germain Elderflower,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/4258/old-friend
+365,No,Gin,The Laverstroke,Bombay,St. Germain Elderflower,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke/
 686,No,Whisky,Midnight Over Tennessee,Jack Daniels,Half and half,Mixer,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2498/midnight-over-tennessee
 687,No,Whisky,Blackberry Malt,Jameson,Jameson,Spirit,1.75,Ounce,https://www.thespruceeats.com/blackberry-malt-cocktail-recipe-759138
 688,No,Whisky,Blackberry Malt,Jameson,Blackberries,Fruit,4,Blackberries,https://www.thespruceeats.com/blackberry-malt-cocktail-recipe-759140
@@ -700,7 +700,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 699,No,Whisky,Diarmuid & Grainne,Jameson,Peychauds Bitters,Bitters,1,Dashes,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 700,No,Whisky,Every-Body's Irish,Jameson,Jameson,Spirit,1.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2651/every-bodys-irish-cocktail
 701,No,Whisky,Every-Body's Irish,Jameson,Green Chartreuse,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/2651/every-bodys-irish-cocktail
-702,No,Whisky,Every-Body's Irish,Jameson,Crème de Menthe (Green),Cordial,0.25,Ounce,https://www.diffordsguide.com/cocktails/recipe/2651/every-bodys-irish-cocktail
+370,No,Gin,The Laverstroke Anniversary,Bombay,St. Germain Elderflower,Cordial,15,Milliliters,https://www.bombaysapphire.com/distillery/gin-cocktails/the-laverstoke-anniversary-edition/
 703,No,Whisky,Green Dublin,Jameson,Jameson,Spirit,2,Ounce,https://www.thespruceeats.com/green-dublin-apple-cocktail-recipe-4156979
 704,No,Whisky,Green Dublin,Jameson,Sour Apple Schnapps,Cordial,1,Ounce,https://www.thespruceeats.com/green-dublin-apple-cocktail-recipe-4156979
 705,No,Whisky,Green Dublin,Jameson,White Cranberry Juice,Juice,2,Ounce,https://www.thespruceeats.com/green-dublin-apple-cocktail-recipe-4156979
@@ -709,7 +709,7 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 708,No,Whisky,Irish Gold,Jameson,Orange Juice,Juice,1,Splash,https://www.thespruceeats.com/irish-gold-whiskey-761454
 709,No,Whisky,Irish Gold,Jameson,Peach Liqueur,Cordial,0.5,Ounce,https://www.thespruceeats.com/irish-gold-whiskey-761453
 710,No,Whisky,Irish Morning Fizz,Jameson,Jameson,Spirit,2,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
-711,No,Whisky,Irish Morning Fizz,Jameson,Molasses/Honey,Mixer,0.75,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
+711,No,Whisky,Irish Morning Fizz,Jameson,Molasses,Mixer,0.75,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 712,No,Whisky,Irish Morning Fizz,Jameson,Orange Bitters,Bitters,1,Dashes,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 713,No,Whisky,Irish Morning Fizz,Jameson,Egg Whites,Topping,0.75,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 714,No,Whisky,Irish Morning Fizz,Jameson,Lemon Juice,Fruit,0.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
@@ -720,18 +720,18 @@ Id,Have,Base,Name,Sub Base,Ingredient,Ingredient Type,Amount,Units,Link
 719,No,Whisky,Maggie's Elixir,Jameson,Sherry,Wine,0.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 720,No,Whisky,Maggie's Elixir,Jameson,Pear Liqueur,Cordial,0.5,Ounce,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 721,No,Whisky,Maggie's Elixir,Jameson,Lemon Juiced,Fruit,1,Lemon,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
-722,No,Whisky,Maggie's Elixir,Jameson,Honey Syrup*,Syrup,2,Bar Spoons,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
+722,No,Whisky,Maggie's Elixir,Jameson,Honey,Syrup,2,Bar Spoons,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 723,No,Whisky,Maggie's Elixir,Jameson,Orange Juice,Juice,0.5,Orange,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 724,No,Whisky,Maggie's Elixir,Jameson,Peychauds Bitters,Bitters,2,Dashes,https://www.townandcountrymag.com/leisure/drinks/g25936434/irish-whiskey-cocktails/
 725,No,Whisky,Massey Cocktail,Jameson,Jameson,Spirit,1,Ounce,https://www.thespruceeats.com/massey-cocktail-recipe-4156983
 726,No,Whisky,Massey Cocktail,Jameson,Gin,Spirit,1,Ounce,https://www.thespruceeats.com/massey-cocktail-recipe-4156984
 727,No,Whisky,Massey Cocktail,Jameson,Green Chartreuse,Cordial,0.25,Ounce,https://www.thespruceeats.com/massey-cocktail-recipe-4156986
 728,No,Whisky,Massey Cocktail,Jameson,Campari,Cordial,1,Splash,https://www.thespruceeats.com/massey-cocktail-recipe-4156987
-729,No,Whisky,Massey Cocktail,Jameson,Sweet Vermouth,Vermouth,0.75,Ounce,https://www.thespruceeats.com/massey-cocktail-recipe-4156985
+6,No,Cognac,Bermuda Highball,Ansac,Bianco Vermouth,Vermouth,1,Ounce,https://www.townandcountrymag.com/leisure/drinks/g2920/cognac-cocktails/
 730,No,Whisky,Shamrock,Jameson,Jameson,Spirit,1.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/1814/shamrock
 731,No,Whisky,Shamrock,Jameson,Noilly Prat Extra Dry,Spirit,1.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/1814/shamrock
 732,No,Whisky,Shamrock,Jameson,Green Chartreuse,Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/1814/shamrock
-733,No,Whisky,Shamrock,Jameson,Crème de Menthe (Green),Cordial,0.5,Ounce,https://www.diffordsguide.com/cocktails/recipe/1814/shamrock
+623,No,Vodka,Le Grand Fizz,Grey Goose,St. Germain Elderflower,Cordial,1.5,Ounce,https://www.thrillist.com/drink/nation/9-grey-goose-cocktails-for-every-type-of-celebration
 734,No,Whisky,Kentucky Buck,Makers Mark,Makers Mark,Spirit,2,Part,https://www.makersmark.com/ca/cocktails/kentucky-buck
 735,No,Whisky,Kentucky Buck,Makers Mark,Ginger Ale,Soda,0,Fill,https://www.makersmark.com/ca/cocktails/kentucky-buck
 736,No,Whisky,Kentucky Buck,Makers Mark,Lemon Juice,Fruit,1.5,Part,https://www.makersmark.com/ca/cocktails/kentucky-buck

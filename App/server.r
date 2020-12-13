@@ -32,7 +32,7 @@ create_cards <- function(df){
                                             status = 'primary', 
                                             img(        
                                                     id = "images",
-                                                    src = paste0('images/', gsub(' ', '_', tolower(cur_val)), '.jpg'), 
+                                                    src = paste0('images/', gsub(' ', '_', tolower(iconv(cur_val, to = "ASCII//TRANSLIT"))), '.jpg'), 
                                                     height = 150, 
                                                     width = 150, 
                                                     style="display: block; margin-left: auto; margin-right: auto;"),
